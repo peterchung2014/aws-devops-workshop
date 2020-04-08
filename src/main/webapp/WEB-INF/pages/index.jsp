@@ -83,7 +83,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Joy NO1...</h1>
+      <h1>Joy Still NO1...</h1>
       <p><i>Whatever you are, be a good one</i></p>
     </div>
     <div class="page-header">
